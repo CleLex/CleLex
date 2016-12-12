@@ -4,4 +4,4 @@
 --> Poder seleccionar la tabulacion base 
 --> Mejorar .l con mas simbolos y adpatarlo para matrices
 --> Añadir funcionalidad para los .h
-
+--> Eliminar /n antes de un ;
