@@ -1,0 +1,7 @@
+--> Distinguir si el archivo de entrada es .c o .cpp y crear un archivo de salida acorde
+--> Que el nombre del archivo de entrada y el de salida sean el mismo
+--> Poder seleccionar el nombre del archivo de salida
+--> Poder seleccionar la tabulacion base 
+--> Mejorar .l con mas simbolos y adpatarlo para matrices
+--> Añadir funcionalidad para los .h
+
